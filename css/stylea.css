@@ -1,0 +1,20 @@
+body
+{
+	background-image: url(4.gif);
+        background-repeat:repeat;
+
+}
+.loginbox
+{
+	width: 20% ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+.loginbox h1
+{
+	color: orange;
+	box-shadow: 4%;
+	word-spacing: 5px;
+	font-size: 211%;
+}
+'https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'

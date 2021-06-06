@@ -1,0 +1,57 @@
+body {
+    margin: 50px 20px;
+  }
+  
+  header {
+    background-image: url('../images/flywheel.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 150%;
+    padding: 10%;
+    height: 40%;
+  }
+  
+  header h1 {
+    padding: 80%
+    margin: 40px;
+    text-transform: uppercase;
+    color: black;
+  }
+  
+  
+  nav a {
+    color: rgb(0, 0, 0);
+    padding: 15px 50px;
+    margin: 0px 20px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    font-size: 1.1em;
+  }
+  
+
+ nav a:hover, nav a.active{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: yellow;
+}
+  .active {
+    background-color: yellow;
+  }
+  
+  .payment {
+    float: left;
+    display: inline;
+    font-size: 150%;
+
+
+  }
+  .payment img{
+    width:42px;
+    height:42px;
+    border:0
+
+  }
+  
+ 
+ 
